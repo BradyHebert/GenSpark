@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    color: #444;
+    font-family: sans-serif;
+
+    border-top: 25px groove #1098ad;
+    position: relative;
+}
+
+.container {
+    width: 800;
+    margin-right: auto;
+    text-align: center;
+    margin: 0 auto;
+}
+
+nav {
+    font-size: 18px;
+}
